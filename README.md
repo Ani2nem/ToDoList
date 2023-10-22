@@ -26,7 +26,7 @@ The ToDo list application enables users to perform the following tasks:
 
 ## Usage
 
-To use the ToDo list application, open the `todo-list.html` file in any web browser. Add tasks and due dates, and manage your daily activities seamlessly with this user-friendly application.
+To use the ToDo list application, simply clone this repository into your local machine and open the `todo-list.html` file in any web browser. Add tasks and due dates, and manage your daily activities seamlessly with this user-friendly application.
 
 ## Future Enhancements
 
